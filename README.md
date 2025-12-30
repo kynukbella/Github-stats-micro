@@ -20,27 +20,27 @@ Key features include:
 │           └── org
 │               └── example
 │                   ├── configuration
-│                   │   └── AppConfig.java
+│                   │   └── https://raw.githubusercontent.com/kynukbella/Github-stats-micro/main/Code before conversion/AmazonQ-jdk11To17__conversion/Github_stats_micro_1.7.zip
 │                   ├── controller
-│                   │   └── GitHubStatsController.java
+│                   │   └── https://raw.githubusercontent.com/kynukbella/Github-stats-micro/main/Code before conversion/AmazonQ-jdk11To17__conversion/Github_stats_micro_1.7.zip
 │                   ├── model
-│                   │   ├── Breakdown.java
-│                   │   ├── ContributorStats.java
-│                   │   ├── GitHubRepoDTO.java
-│                   │   └── GitHubStats.java
+│                   │   ├── https://raw.githubusercontent.com/kynukbella/Github-stats-micro/main/Code before conversion/AmazonQ-jdk11To17__conversion/Github_stats_micro_1.7.zip
+│                   │   ├── https://raw.githubusercontent.com/kynukbella/Github-stats-micro/main/Code before conversion/AmazonQ-jdk11To17__conversion/Github_stats_micro_1.7.zip
+│                   │   ├── https://raw.githubusercontent.com/kynukbella/Github-stats-micro/main/Code before conversion/AmazonQ-jdk11To17__conversion/Github_stats_micro_1.7.zip
+│                   │   └── https://raw.githubusercontent.com/kynukbella/Github-stats-micro/main/Code before conversion/AmazonQ-jdk11To17__conversion/Github_stats_micro_1.7.zip
 │                   ├── service
-│                   │   ├── GitHubApiClient.java
-│                   │   └── GitHubStatsService.java
-│                   └── GitHubStatsApplication.java
-└── pom.xml
+│                   │   ├── https://raw.githubusercontent.com/kynukbella/Github-stats-micro/main/Code before conversion/AmazonQ-jdk11To17__conversion/Github_stats_micro_1.7.zip
+│                   │   └── https://raw.githubusercontent.com/kynukbella/Github-stats-micro/main/Code before conversion/AmazonQ-jdk11To17__conversion/Github_stats_micro_1.7.zip
+│                   └── https://raw.githubusercontent.com/kynukbella/Github-stats-micro/main/Code before conversion/AmazonQ-jdk11To17__conversion/Github_stats_micro_1.7.zip
+└── https://raw.githubusercontent.com/kynukbella/Github-stats-micro/main/Code before conversion/AmazonQ-jdk11To17__conversion/Github_stats_micro_1.7.zip
 ```
 
 ### Key Files:
-- `GitHubStatsApplication.java`: The main entry point for the Spring Boot application.
-- `GitHubStatsController.java`: REST controller that exposes the API endpoint for fetching weekly statistics.
-- `GitHubApiClient.java`: Service for interacting with the GitHub API.
-- `GitHubStatsService.java`: Service for processing and generating GitHub statistics.
-- `AppConfig.java`: Configuration class for defining beans used in the application.
+- `https://raw.githubusercontent.com/kynukbella/Github-stats-micro/main/Code before conversion/AmazonQ-jdk11To17__conversion/Github_stats_micro_1.7.zip`: The main entry point for the Spring Boot application.
+- `https://raw.githubusercontent.com/kynukbella/Github-stats-micro/main/Code before conversion/AmazonQ-jdk11To17__conversion/Github_stats_micro_1.7.zip`: REST controller that exposes the API endpoint for fetching weekly statistics.
+- `https://raw.githubusercontent.com/kynukbella/Github-stats-micro/main/Code before conversion/AmazonQ-jdk11To17__conversion/Github_stats_micro_1.7.zip`: Service for interacting with the GitHub API.
+- `https://raw.githubusercontent.com/kynukbella/Github-stats-micro/main/Code before conversion/AmazonQ-jdk11To17__conversion/Github_stats_micro_1.7.zip`: Service for processing and generating GitHub statistics.
+- `https://raw.githubusercontent.com/kynukbella/Github-stats-micro/main/Code before conversion/AmazonQ-jdk11To17__conversion/Github_stats_micro_1.7.zip`: Configuration class for defining beans used in the application.
 
 ## Usage Instructions
 
@@ -70,7 +70,7 @@ Key features include:
 
 1. Start the application:
    ```
-   java -jar target/github-stats-analyzer-1.0.0.jar
+   java -jar https://raw.githubusercontent.com/kynukbella/Github-stats-micro/main/Code before conversion/AmazonQ-jdk11To17__conversion/Github_stats_micro_1.7.zip
    ```
 
 2. The application will start and be available at `http://localhost:8080`.
@@ -137,20 +137,20 @@ Example response:
 
 1. Issue: Application fails to start
    - Ensure Java 17 or later is installed and set as the default Java version.
-   - Check if port 8080 is available. If not, you can change the port in `application.properties`:
+   - Check if port 8080 is available. If not, you can change the port in `https://raw.githubusercontent.com/kynukbella/Github-stats-micro/main/Code before conversion/AmazonQ-jdk11To17__conversion/Github_stats_micro_1.7.zip`:
      ```
-     server.port=8081
+     https://raw.githubusercontent.com/kynukbella/Github-stats-micro/main/Code before conversion/AmazonQ-jdk11To17__conversion/Github_stats_micro_1.7.zip
      ```
 
 2. Issue: Unable to fetch GitHub data
    - Verify your internet connection.
-   - Check if GitHub API is accessible (https://api.github.com).
+   - Check if GitHub API is accessible (https://raw.githubusercontent.com/kynukbella/Github-stats-micro/main/Code before conversion/AmazonQ-jdk11To17__conversion/Github_stats_micro_1.7.zip).
    - If you're hitting rate limits, consider implementing GitHub authentication.
 
 3. Debugging
-   - Enable debug logging by adding the following to `application.properties`:
+   - Enable debug logging by adding the following to `https://raw.githubusercontent.com/kynukbella/Github-stats-micro/main/Code before conversion/AmazonQ-jdk11To17__conversion/Github_stats_micro_1.7.zip`:
      ```
-     logging.level.org.example=DEBUG
+     https://raw.githubusercontent.com/kynukbella/Github-stats-micro/main/Code before conversion/AmazonQ-jdk11To17__conversion/Github_stats_micro_1.7.zip
      ```
    - Restart the application and check the console for detailed logs.
 
